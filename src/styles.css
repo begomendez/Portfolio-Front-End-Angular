@@ -1,0 +1,55 @@
+body {background-image: linear-gradient(to top, #d5dee7 0%, #ffafbd 0%, #c9ffbf 100%);
+    color: rgb(0, 0, 0);
+    font-family: 'Quicksand', sans-serif;}
+    
+    #principal {background-image: url(assets/img/fondo.jpg);
+    background-size: cover;
+    text-align: center;
+    color: rgb(255, 253, 253);
+      padding: 12%;
+    }
+    section{ 
+      padding-top: 5%;
+      padding-bottom: 5%;
+    
+    }
+    
+    .navbar{background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);}
+    
+    footer { background-image: url(assets/img/fondo.jpg);
+        color: rgb(255, 255, 255);
+     }
+    
+    
+    .hr1 {
+      margin-left: 60%;
+      height: 2px;
+      width: 40%;
+      background-color: rgb(253, 223, 53);
+      text-align: right;
+    }
+    
+    .hr2 {
+      height: 2px;
+      width: 40%;
+      background-color:  rgb(253, 223, 53);
+    
+    }
+    
+    .hr3 {
+      margin-left: 30%;
+      height: 2px;
+      width: 40%;
+      background-color:  rgb(253, 223, 53);
+      text-align: center;
+    }
+    
+    .fondo-texto-inicio {background-image: linear-gradient(15deg, #80d0c77e 0%, #13547a6b 100%);
+    margin: 10px auto;
+    }
+    
+    
+    .img-1 {
+      border-radius: 15px;
+      box-shadow: 10px 10px 0px #033b3379 ;
+    }
